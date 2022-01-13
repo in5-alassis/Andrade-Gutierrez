@@ -1,0 +1,1 @@
+java -cp .:ConfigBD-Java1.4.jar:ConfigBD-Java1.5.jar:ConfigBD.jar:classes12.jar:confbd.zip:configbd.zip:db2java.jar:firebirdsql-full.jar:ifxjdbc-g.jar:ifxjdbc.jar:jdbc.jar:jtds-1.0.2.jar:msbase.jar:mssqlserver.jar:msutil.jar:mysql-connector-java-3.0.15-ga-bin.jar com.lecom.tecnologia.config

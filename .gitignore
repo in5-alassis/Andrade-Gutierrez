@@ -1,0 +1,15 @@
+# Eclipse
+/.settings/
+.classpath
+.project
+
+# VS Code
+settings.json
+
+# IntelliJ
+/.idea/
+workspace-parker-hannifin.iml
+
+# MVN Build
+/target/
+/bin/
